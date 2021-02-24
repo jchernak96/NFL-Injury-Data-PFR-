@@ -60,7 +60,7 @@ Injuries_Final %>%
   annotate("Text", x = 150, y = 200, label = "High Offensive Injuries, High Defensive", size = 3)+
   annotate("Text", x = 50, y = 200, label = "High Defensive Injuries, Low Offensive", size = 3)+
   annotate("Text", x = 50, y = 25, label = "Low Offensive Injuries, Low Defensive", size = 3)+
-  ggsave("games_lsot.png")
+  ggsave("games_lost.png")
 
 ```
 
