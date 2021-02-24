@@ -864,7 +864,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,1,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,1,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,1,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Active,1,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Active,1,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,1,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,1,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,1,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,1,Healthy,None
@@ -2422,7 +2422,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,2,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,2,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,2,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Out,2,Doubtful, Quadricep
-Derwin James,Los Angeles Chargers,2020,Active,2,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,2,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,2,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,2,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,2,Healthy,None
@@ -3980,7 +3980,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,3,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,3,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,3,Doubtful, Knee
 Justin Jackson,Los Angeles Chargers,2020,Out,3,Doubtful, Quadricep
-Derwin James,Los Angeles Chargers,2020,Active,3,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,3,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,3,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,3,Questionable, Groin
 Justin Jones,Los Angeles Chargers,2020,Out,3,Out, Shoulder
@@ -5538,7 +5538,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,4,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,4,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,4,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,4,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Active,4,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,4,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,4,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,4,Questionable, Groin
 Justin Jones,Los Angeles Chargers,2020,Out,4,Injured Reserve,None
@@ -6857,7 +6857,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,5,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,5,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,5,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,5,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Active,5,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,5,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,5,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,5,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Out,5,Injured Reserve,None
@@ -9601,7 +9601,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,7,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Out,7,Questionable, Hip
 Melvin Ingram,Los Angeles Chargers,2020,Active,7,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,7,Questionable, Knee
-Derwin James,Los Angeles Chargers,2020,Active,7,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,7,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,7,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,7,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,7,Injured Reserve,None
@@ -10927,7 +10927,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,8,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,8,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,8,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Active,8,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Active,8,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,8,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,8,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,8,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,8,Healthy,None
@@ -12332,7 +12332,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,9,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,9,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,9,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Active,9,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Active,9,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,9,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,9,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,9,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,9,Healthy,None
@@ -13686,7 +13686,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,10,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,10,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,10,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Out,10,Injured Reserve,None
-Derwin James,Los Angeles Chargers,2020,Active,10,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,10,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,10,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,10,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,10,Healthy,None
@@ -15090,7 +15090,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,11,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,11,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Active,11,Healthy,None
 Justin Jackson,Los Angeles Chargers,2020,Out,11,Injured Reserve,None
-Derwin James,Los Angeles Chargers,2020,Active,11,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,11,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,11,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,11,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,11,Healthy,None
@@ -16535,7 +16535,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,12,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,12,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,12,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Out,12,Injured Reserve,None
-Derwin James,Los Angeles Chargers,2020,Out,12,Injured Reserve,None
+Derwin James,Los Angeles Chargers,2020,Out,12,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,12,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,12,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,12,Healthy,None
@@ -18046,7 +18046,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,13,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,13,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,13,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Out,13,Injured Reserve,None
-Derwin James,Los Angeles Chargers,2020,Active,13,Healthy,None
+Derwin James,Los Angeles Chargers,2020,Active,13,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,13,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,13,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,13,Healthy,None
@@ -19562,7 +19562,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,14,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,14,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,14,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,14,Injured Reserve,None
-Derwin James,Los Angeles Chargers,2020,Out,14,Injured Reserve,None
+Derwin James,Los Angeles Chargers,2020,Out,14,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,14,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,14,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,14,Healthy,None
@@ -21120,7 +21120,7 @@ Hunter Henry,Los Angeles Chargers,2020,Active,15,Healthy,None
 K.J. Hill,Los Angeles Chargers,2020,Active,15,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,15,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,15,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Out,15,Injured Reserve,None
+Derwin James,Los Angeles Chargers,2020,Out,15,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,15,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,15,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,15,Healthy,None
@@ -22678,7 +22678,7 @@ Hunter Henry,Los Angeles Chargers,2020,Out,16,C19,C19
 K.J. Hill,Los Angeles Chargers,2020,Active,16,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,16,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,16,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Out,16,C19,C19
+Derwin James,Los Angeles Chargers,2020,Out,16,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Active,16,Healthy,None
 Rayshawn Jenkins,Los Angeles Chargers,2020,Active,16,Healthy,None
 Justin Jones,Los Angeles Chargers,2020,Active,16,Healthy,None
@@ -24236,7 +24236,7 @@ Hunter Henry,Los Angeles Chargers,2020,Out,17,C19,C19
 K.J. Hill,Los Angeles Chargers,2020,Active,17,Healthy,None
 Melvin Ingram,Los Angeles Chargers,2020,Out,17,Injured Reserve,None
 Justin Jackson,Los Angeles Chargers,2020,Active,17,Healthy,None
-Derwin James,Los Angeles Chargers,2020,Out,17,C19,C19
+Derwin James,Los Angeles Chargers,2020,Out,17,Injured Reserve,Knee
 Malik Jefferson,Los Angeles Chargers,2020,Out,17,Out, Shoulder
 Rayshawn Jenkins,Los Angeles Chargers,2020,Out,17,Out, Ankle
 Justin Jones,Los Angeles Chargers,2020,Active,17,Healthy,None
